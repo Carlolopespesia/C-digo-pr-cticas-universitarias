@@ -5,7 +5,7 @@ Uso Python == 3.10
 Repositorio con Langchain, Ollama y Mistral-7b para el uso con RAG. 
 
 Gran ayuda proprocioanda por alarcon7a:
-![ollama_langchain](https://github.com/alarcon7a/Langchain-con-Ollama/assets/33847175/49b33727-0e9e-4092-97ef-c291a9588550)
+![ollama_langchain](https://github.com/alarcon7a/Langchain-con-Ollama/)
 
 
 ## Tecnologias
